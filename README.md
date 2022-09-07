@@ -22,12 +22,12 @@
 ![Graphql](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Material](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=qamaraziz07.qamaraziz07)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qamaraziz07&label=Profile%20views&color=0e75b6&style=flat" alt="qamaraziz07" /> </p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=qamaraziz07&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qamaraziz07&hide=TeX&layout=compact)
 
-### 📫 &nbsp; How to reach me:
+### 📫 &nbsp; Connect with me:
 
 <a href="https://www.linkedin.com/in/qamar-aziz-0b76a8228/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:qamaraziz07@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
