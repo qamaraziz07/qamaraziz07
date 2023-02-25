@@ -1,6 +1,6 @@
 ### Hi there, I'm Qamar Aziz. 👋
 
-![cover](https://github.com/qamaraziz07/qamaraziz07/blob/main/github-banner-cover.png)
+![cover](https://github.com/qamaraziz07/qamaraziz07/blob/main/banner.png)
 
 ## ⚡ Technologies
 
