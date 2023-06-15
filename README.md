@@ -24,7 +24,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qamaraziz07&label=Profile%20views&color=0e75b6&style=flat" alt="qamaraziz07" /> </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=qamaraziz07&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qamaraziz07&hide=TeX&layout=compact)
 
 ### 📫 &nbsp; Connect with me:
